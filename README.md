@@ -21,6 +21,3 @@ High-precision signal chain for real-time celestial event categorization.
 * **Data:** Waveform plots for TIAs, Log-Amp, and Final Summing stage.
 * **Report:** Full mathematical derivations and flowcharts.
 * **Presentation:** Full Project PPT detailing circuit math and simulation results.
-
----
-**Jennita Rachel A | IIT Guwahati**
